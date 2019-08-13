@@ -1,0 +1,1 @@
+# CVE-2017-5689(a.k.a AMT-AUTHBYPASS) checker
